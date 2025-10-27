@@ -1,0 +1,106 @@
+#include<stdio.h>
+//void printGreetings(){
+//	printf("hello world\n");
+//
+//}
+//int sumOff(int a, int b){
+//	return a+b;
+//}
+//int main(){
+//	printGreetings();
+//	printf("%d",sumOff(10,20));
+//}
+ 
+ 
+// int maxNumber(int a,int b){
+// 	if(a>b){
+// 		return a;
+//	 }else{
+//	 	return b;
+//	 }
+// }
+// 
+// int main(){
+// 	printf("%d",maxNumber(600,50));
+// }
+
+
+
+//int number(int a){
+//
+//	if(a%2==0){
+//		printf("number is even");
+//	}else {
+//		printf("number is odd");
+//	}
+//}
+//
+//int main(){
+//    number(10);
+//}
+
+
+//float interest(int principle,int rate,int time){
+//	float result;
+//	result=(principle*rate*time)/100;
+//	return result;
+//}
+//
+//float updateBalance(int newBalance,int principle,float interest(principle,rate,time)){
+//	newBalance=principle+interest(principle,rate,time);
+//	return newBalance;
+//}
+//
+//int main(){
+//	int principle,rate,time;
+//	 printf("enter principle");
+//	 scanf ("%d",&principle);
+//	 printf("enter rate");
+//	 scanf("%d",&rate);
+//	 printf("enter time");
+//	 scanf("%d",&time);
+//	 
+//	 float interest(principle,rate,time);
+//	 float updateBalance (newBalance,principle,interest);
+//}
+
+
+
+//int sum(item[]){
+//	int sum=0;i;
+//	for(i=0;i<5;i++){
+//		sum+=item[i];
+//		return sum;
+//	}
+//}
+//
+//int applyDiscount(int sum){
+//	int amount;
+//	if (sum>5000){
+//		amount=sum-(sum*0.9);
+//		printf("the amount after discount is %d",amount);
+//		
+//    }else{
+//    	printf("no discount for you");
+//    	
+//	}
+//
+//int bill(int sum,int applyDiscount ){
+//	int finalAmount;
+//	finalAmount=applyDiscount;
+//	printf("the final amount is %d",finalAmount);
+//	return finalAmount;
+//}
+// int main(){
+// 	int i;
+// 	for(i=0;i<5i++){
+// 		printf("enter price of item %d",i+1);
+// 		scanf("%d",item[i]);
+// 		
+// 		int sum(item);
+// 		int applyDiscount(sum);
+// 		int bill(sum,applyDiscount);
+//	 }
+// }
+//
+//
